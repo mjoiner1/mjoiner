@@ -23,7 +23,7 @@ public static void main(String[] args)
     Scanner scan = new Scanner(System.in); 
     Random generator = new Random(); 
 
-    System.out.println("Hey, let's play Rock, Paper, Scissors!\n" + 
+    System.out.println("Welcome, to Rock, Paper, Scissors!\n" + 
                        "Please enter Rock,Paper,or Scissors.\n" + "Rock = R, Paper" + 
                        "= P, and Scissors = S.");
 
@@ -78,7 +78,7 @@ public static void main(String[] args)
          System.out.println("Invalid user input.");
   
     // Best out of three games 
-    
+   
     }
  
     
